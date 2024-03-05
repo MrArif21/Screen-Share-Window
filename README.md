@@ -1,0 +1,1 @@
+The screen share is initiated by a user-triggered event listener. It uses navigator.mediaDevices.getDisplayMedia for capturing the screen, managing permissions and data asynchronously for a seamless experience.
